@@ -1,0 +1,21 @@
+caracter2
+177
+54
+82
+
+caracter3
+44
+153
+121
+
+caracter4
+162
+28
+133
+
+Dimensiuni_caracter:
+width:60
+Height 60
+
+
+Tutorial : https://www.youtube.com/watch?v=K5F-aGDIYaM&list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq
